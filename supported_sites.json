@@ -15,6 +15,21 @@
   "lastIndex":"-1"
 },
 {
+  "url":"http://www.gocomics.com/tankmcnamara",
+  "title":"Tank McNamara",
+  "imageUrl":"http://assets.amuniversal.com/156d7d30038401361dd7005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/tankmcnamara",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.gocomics.com/robert-ariail",
   "title":"Robert Ariail",
   "imageUrl":"http://assets.amuniversal.com/1d9ada600ea50136222e005056a9545d",
