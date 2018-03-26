@@ -1,5 +1,20 @@
 [
 {
+  "url":"http://www.gocomics.com/dicktracy",
+  "title":"Dick Tracy",
+  "imageUrl":"http://assets.amuniversal.com/55312d40fb0401351ae2005056a9545d",
+  "imageSelector":".item-comic-image img",
+  "imageIndex":"0",
+  "firstSelector":".fa-backward",
+  "firstIndex":"0",
+  "prevSelector":".fa-caret-left",
+  "prevIndex":"0",
+  "nextSelector":".fa-caret-right",
+  "nextIndex":"0",
+  "lastSelector":"http://www.gocomics.com/dicktracy",
+  "lastIndex":"-1"
+},
+{
   "url":"http://www.gocomics.com/robert-ariail",
   "title":"Robert Ariail",
   "imageUrl":"http://assets.amuniversal.com/1d9ada600ea50136222e005056a9545d",
